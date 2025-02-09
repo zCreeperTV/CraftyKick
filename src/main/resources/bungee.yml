@@ -1,0 +1,9 @@
+name: CraftyKick
+api-version: 1.21
+version: 1.0
+main: de.zcreeper.craftykick.CraftyKick
+author: zCreeper
+description: CraftyKick is a easy to use Kick Plugin for your BungeeCord Server
+
+commands:
+  kick:
