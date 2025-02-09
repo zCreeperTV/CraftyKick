@@ -26,6 +26,18 @@ To kick a player, use the following command:
 
 ```
 /kick <Player> <Reason>
+
+```
+## Permissions
+
+The player can only use the command with following permission:
+```
+craftykick.command.kick
+```
+
+The player can only bypass the kick with following permission:
+```
+craftykick.bypass
 ```
 
 ### Example:
@@ -42,10 +54,6 @@ This will kick the player "Steve" with the reason "Cheating". You can also use c
 
 This will kick the player "Steve" with a red message: "Hacking detected!"
 
-## Permissions
-
-- **craftykick.use**: Allows a player to use the `/kick` command.
-- **craftykick.bypass**: Allows a player to bypass the kick restriction.
 
 ## Troubleshooting
 
