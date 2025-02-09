@@ -12,7 +12,7 @@ CraftyKick is a BungeeCord plugin that allows players to kick other players from
 
 ## Installation
 
-1. Download the latest version of **CraftyKick** from the [Release Page](#).
+1. Download the latest version of **CraftyKick** from [Modrinth](#) or [SpigotMC](#).
 2. Copy the `.jar` file into the `plugins/` directory of your BungeeCord server.
 3. Restart your BungeeCord server.
 
